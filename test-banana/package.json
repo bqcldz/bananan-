@@ -1,0 +1,14 @@
+{
+  "name": "test-banana-api",
+  "version": "1.0.0",
+  "description": "胜算云API测试脚本 - 图片生成和编辑",
+  "main": "test-banana-api.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test-banana-api.js",
+    "start": "node test-banana-api.js"
+  },
+  "keywords": ["ai", "image", "generation", "editing", "胜算云"],
+  "author": "",
+  "license": "MIT"
+}
