@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 // 配置
 const API_BASE_URL = 'https://router.shengsuanyun.com/api';
-const API_KEY = 'zTl3eX_VzKT1u2_710E3doD1HnoP9_t6Q_6ZVATMgIySf-v-N_EbJkaZpM0HcMjJVMVugYEk6bt_c71Vj6fd'; // 请替换为实际的API Key
+const API_KEY = 'YOUR_API_KEY_HERE'; // 请替换为实际的API Key
 const MODEL = 'google/gemini-2.5-flash-image-preview';
 
 // System Prompt设计
